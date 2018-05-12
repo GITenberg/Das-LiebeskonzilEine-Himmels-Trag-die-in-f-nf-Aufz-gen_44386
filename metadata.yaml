@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42484
     wikipedia: http://en.wikipedia.org/wiki/Oskar_Panizza
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44386#Das-LiebeskonzilEine-Himmels-Trag-die-in-f-nf-Aufz-gen
 gutenberg_issued: '2013-12-08'
 gutenberg_type: Text
 identifiers:
